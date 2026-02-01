@@ -43,9 +43,9 @@ The server implements the Model Context Protocol (MCP), allowing AI assistants l
 #### Dependencies
 
 ```
-pywin32>=228    # Windows COM interface support
-mcp>=1.0.0      # Model Context Protocol library
-pydantic>=2.0.0 # Data validation
+pywin32>=301        # Windows COM interface support
+mcp>=1.23.0         # Model Context Protocol library
+pydantic>=2.0.0     # Data validation
 ```
 
 #### System Requirements
@@ -278,9 +278,9 @@ CAD-MCP 是一个创新的 CAD 控制服务，允许通过自然语言指令控�
 #### 依赖项
 
 ```
-pywin32>=228    # Windows COM 接口支持
-mcp>=1.0.0      # 模型上下文协议库
-pydantic>=2.0.0 # 数据验证
+pywin32>=301        # Windows COM 接口支持
+mcp>=1.23.0         # 模型上下文协议库
+pydantic>=2.0.0     # 数据验证
 ```
 
 #### 系统要求

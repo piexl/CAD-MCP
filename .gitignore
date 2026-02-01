@@ -39,3 +39,4 @@ Thumbs.db
 # Project specific
 output/*.dwg
 *.log
+test_nlp.py

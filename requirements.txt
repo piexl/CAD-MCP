@@ -1,0 +1,11 @@
+# CAD MCP 服务依赖
+# Windows COM support (optional, for Windows only)
+# pywin32>=228
+
+# Cross-platform CAD library
+ezdxf>=1.0.0
+
+# MCP and data validation
+mcp>=0.1.0
+pydantic>=2.0.0
+typing>=3.7.4.3
